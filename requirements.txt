@@ -4,4 +4,5 @@ numpy
 pandas
 notebook
 torch --index-url https://download.pytorch.org/whl/cpu
-pydeck
+folium
+scikit-learn
